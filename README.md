@@ -5,13 +5,13 @@ Um pequeno sistema de postagem em php, 'cru' sem nenhum tipo de formatação css
 
 sistema-postagem/<br>
 ├── painel/<br>
-│   └── add-categ.php<br>
-│    └── add-post.php<br>
-│     └── edit-post.php<br>
-│      └── index.php<br>
+│	└── add-categ.php<br>
+│		└── add-post.php<br>
+│			└── edit-post.php<br>
+│				└── index.php<br>
 ├── system/<br>
-│   └── config.php<br>
-│    └── database.php<br>
+│	└── config.php<br>
+│		└── database.php<br>
 ├── /<br>
-│   └── exibe.php<br>
-│    └── index.php<br>
+│	└── exibe.php<br>
+│		└── index.php<br>
