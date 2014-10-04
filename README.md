@@ -15,3 +15,4 @@ sistema-postagem/<br>
 ├── /<br>
 │	└── exibe.php<br>
 │		└── index.php<br>
+│			└── banco.sql
